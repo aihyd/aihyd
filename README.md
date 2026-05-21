@@ -102,15 +102,7 @@
 
 ---
 
-## �� GitHub Stats
 
-<div align="center">
-
-  ![Aihyd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aihyd&show_icons=true&theme=dark&title_color=E8B84B&icon_color=E8B84B&text_color=ffffff&bg_color=0f0f1a&hide_border=true&cache_seconds=1800)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aihyd&layout=compact&theme=dark&title_color=E8B84B&text_color=ffffff&bg_color=0f0f1a&hide_border=true&cache_seconds=1800)
-
-</div>
 
 ---
 
