@@ -1,25 +1,25 @@
-# Hi there, I'm Aihyd 👋
+# Hi there, I'm Aihyd ��
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E8B84B&center=true&vCenter=true&width=500&lines=L3+MIAGE+Student+%40+Évry+Paris-Saclay;Java+%7C+Python+%7C+JavaScript+%7C+Data;Always+learning+new+things+🚀)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E8B84B&center=true&vCenter=true&width=500&lines=L3+MIAGE+Student+%40+Évry+Paris-Saclay;Java+%7C+Python+%7C+JavaScript+%7C+Data;Always+learning+new+things+��)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## ��‍�� About Me
 
-- 🎓 **L3 MIAGE** student at Université Évry Paris-Saclay
-- 🔭 Currently working on a **JavaFX RPG Character Manager** with AI integration
-- 🌱 Learning **Data Engineering**  **AI/ML** **DEV OPS**
-- 🥋 Black belt (1st dan) in Karate
-- 🌍 Languages : French · English · Arabic · Kabyle
-- 📚 I love reading & traveling
+- �� **L3 MIAGE** student at Université Évry Paris-Saclay
+- �� Currently working on a **JavaFX RPG Character Manager** with AI integration
+- �� Learning **Data Engineering** · **AI/ML** · **DevOps**
+- �� Black belt (1st dan) in Karate
+- �� Languages : French · English · Arabic · Kabyle
+- �� I love reading & traveling
 
 ---
 
-## 🔗 Connect with me
+## �� Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dyhiabensikhaled)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aihyd)
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ��️ Tech Stack
 
 **Languages**
 
@@ -62,29 +62,37 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## �� Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🎲 JDR Character Manager](https://github.com/aihyd/ProjetL3-) | RPG character manager with AI assistant (LLaMA via Groq) | Java · JavaFX · SQLite · Groq API |
-| [📱 Dyhia-Phone](https://github.com/aihyd/Dyhia-Phone) | Online smartphone store web app | Flask · HTML · CSS · SQLite |
-| [🏛️ Gestion Mairie](https://github.com/aihyd/gestion-une-mairie-) | City hall management app | Java · Swing |
-| [📋 e-Notaire Desktop](https://github.com/aihyd/e-notaire-desktop) | Notarial office management system | React · Node.js · JSON |
-| [🐍 Jeu Snake](https://github.com/aihyd/Jeu-Snake) | Classic Snake game | Python · Turtle |
-| [🏓 Jeu Pong](https://github.com/aihyd/Jeu-Pong-avec-Python-Turtle) | Two-player Pong game | Python · Turtle |
+| [�� JDR Character Manager](https://github.com/aihyd/ProjetL3-) | RPG character manager with AI assistant (LLaMA via Groq) | Java · JavaFX · SQLite · Groq API |
+| [�� Dyhia-Phone](https://github.com/aihyd/Dyhia-Phone) | Online smartphone store web app | Flask · HTML · CSS · SQLite |
+| [��️ Gestion Mairie](https://github.com/aihyd/gestion-une-mairie-) | City hall management app | Java · Swing |
+| [�� e-Notaire Desktop](https://github.com/aihyd/e-notaire-desktop) | Notarial office management system | React · Node.js · JSON |
+| [�� Jeu Snake](https://github.com/aihyd/Jeu-Snake) | Classic Snake game | Python · Turtle |
+| [�� Jeu Pong](https://github.com/aihyd/Jeu-Pong-avec-Python-Turtle) | Two-player Pong game | Python · Turtle |
 
 ---
 
-## 📜 Certifications
+## �� Certifications
 
 [![Power BI](https://img.shields.io/badge/Microsoft-Data_Analysis_%26_Visualization_with_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.coursera.org/account/accomplishments/verify/5PXY2C6UXRTB)
 
@@ -94,7 +102,17 @@
 
 ---
 
+## �� GitHub Stats
 
+<div align="center">
+
+  ![Aihyd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aihyd&show_icons=true&theme=dark&title_color=E8B84B&icon_color=E8B84B&text_color=ffffff&bg_color=0f0f1a&hide_border=true&cache_seconds=1800)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aihyd&layout=compact&theme=dark&title_color=E8B84B&text_color=ffffff&bg_color=0f0f1a&hide_border=true&cache_seconds=1800)
+
+</div>
+
+---
 
 <div align="center">
   
