@@ -12,7 +12,7 @@
 
 - 🎓 **L3 MIAGE** student at Université Évry Paris-Saclay
 - 🔭 Currently working on a **JavaFX RPG Character Manager** with AI integration
-- 🌱 Learning **Data Engineering** & **AI/ML** **DEV OPS**
+- 🌱 Learning **Data Engineering**  **AI/ML** **DEV OPS**
 - 🥋 Black belt (1st dan) in Karate
 - 🌍 Languages : French · English · Arabic · Kabyle
 - 📚 I love reading & traveling
